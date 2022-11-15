@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fomantic-ui": "^2.9.1-beta.10",
+    "jquery": "^3.6.1"
+  }
+}
